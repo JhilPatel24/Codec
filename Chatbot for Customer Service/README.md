@@ -20,9 +20,9 @@ The goal of this project is to understand how rule-based chatbots work and how s
 - Displays supported payment methods  
 - Shares customer support contact details  
 - Maintains basic conversation context  
-- Fallback response for unknown queries  
+- Leave response for unknown queries  
 
 ## Technologies Used
 - **Programming Language:** Python  
 - **Libraries:** Regular Expressions (`re`)  
-- **Tools:** VS Code / Jupyter Notebook  
+- **Tools:** Google Colab 
